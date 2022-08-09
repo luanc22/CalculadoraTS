@@ -1,0 +1,19 @@
+{
+  "name": "calculadorats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanc22/CalculadoraTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanc22/CalculadoraTS/issues"
+  },
+  "homepage": "https://github.com/luanc22/CalculadoraTS#readme"
+}
